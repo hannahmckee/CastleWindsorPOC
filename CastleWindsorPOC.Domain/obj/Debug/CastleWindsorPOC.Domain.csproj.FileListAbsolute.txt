@@ -1,0 +1,4 @@
+C:\Users\hmckee\Documents\CastleWindsorPOC\CastleWindsorPOC.Domain\bin\Debug\CastleWindsorPOC.Domain.dll
+C:\Users\hmckee\Documents\CastleWindsorPOC\CastleWindsorPOC.Domain\bin\Debug\CastleWindsorPOC.Domain.pdb
+C:\Users\hmckee\Documents\CastleWindsorPOC\CastleWindsorPOC.Domain\obj\Debug\CastleWindsorPOC.Domain.dll
+C:\Users\hmckee\Documents\CastleWindsorPOC\CastleWindsorPOC.Domain\obj\Debug\CastleWindsorPOC.Domain.pdb
